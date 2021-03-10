@@ -1,0 +1,7 @@
+{
+  "name": "notgba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
